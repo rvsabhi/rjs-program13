@@ -2,7 +2,7 @@
 "name": "program13-temperature-converter",
 "version": "1.0.0",
 "private": true,
-"homepage": "https://amgithbaiju77.github.io/RJS-P13",
+"homepage": "https://rvsabhi.github.io/rjs-program13/",
 "scripts": {
 "start": "react-scripts start",
 "build": "react-scripts build",
